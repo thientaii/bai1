@@ -1,0 +1,39 @@
+XAMPP
+
+Nền tảng: Windows, macOS, Linux
+
+Thành phần: Apache, MySQL/MariaDB, PHP, Perl
+
+Ưu điểm: Miễn phí, đa nền tảng, phổ biến
+
+Nhược điểm: Giao diện đơn giản, cấu hình chưa tối ưu cho từng OS
+
+WAMP
+
+Nền tảng: Windows
+
+Thành phần: Apache, MySQL, PHP
+
+Ưu điểm: Nhẹ, dễ dùng cho Windows
+
+Nhược điểm: Chỉ chạy trên Windows
+
+Laragon
+
+Nền tảng: Windows
+
+Thành phần: Apache/Nginx, MySQL, PHP, Node.js…
+
+Ưu điểm: Rất nhẹ, chạy nhanh, hỗ trợ nhiều framework (Laravel, WordPress)
+
+Nhược điểm: Chỉ hỗ trợ Windows
+
+MAMP
+
+Nền tảng: macOS (có bản Windows)
+
+Thành phần: Apache/Nginx, MySQL, PHP
+
+Ưu điểm: Tối ưu cho macOS, giao diện đẹp
+
+Nhược điểm: Bản miễn phí hạn chế, bản Pro mất phí
